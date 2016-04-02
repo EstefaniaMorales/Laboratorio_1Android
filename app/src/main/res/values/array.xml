@@ -1,0 +1,8 @@
+<resources>
+    <string-array name="spinnerItems">
+        <item>Leer</item>
+        <item>Ver Peliculas</item>
+        <item>Escuchar musica</item>
+        <item>Bailar</item>
+    </string-array>
+</resources>

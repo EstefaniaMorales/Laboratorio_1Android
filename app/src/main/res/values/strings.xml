@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab1UI</string>
+
+    <string name="nombres">Nombres</string>
+    <string name="apellidos">Apellidos</string>
+
+</resources>
